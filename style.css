@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    background: black;
+    display: flex;
+    height: 200px;
+}
+
+
+.uno{
+    background: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+.dos{
+    height: 200px;
+    width: 200px;
+    background: yellow;
+    border-radius: 15px;
+}
